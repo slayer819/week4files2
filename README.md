@@ -1,7 +1,8 @@
 # Personal Website Template
 Adding a line
 
-This is my change
+Adding another line by Rene
+his is my change
 
 Description: A beginner-friendly personal website template with helpful comments.
 
